@@ -9,7 +9,9 @@
 📫 Puedes ponerte en contacto conmigo a través de los siguientes canales:
 
 ✉️ Correo Electrónico: pabloardiladev@gmail.com
+
 🔗 LinkedIn: www.linkedin.com/in/pablo-ardila
+
 ✨ Estoy emocionado de compartir mi trabajo y contribuir a la comunidad de desarrolladores. ¡Sígueme para mantenerte actualizado sobre mis proyectos y descubrir contenido inspirador!
 
 🌐 Mi portafolio y más información sobre mis servicios están disponibles en https://www.canva.com/design/DAEZEkYhGmI/qhCwtwGNgMPd-hNEfrp5-Q/view?utm_content=DAEZEkYhGmI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink.
