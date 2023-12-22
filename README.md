@@ -8,12 +8,10 @@
 
 📫 Puedes ponerte en contacto conmigo a través de los siguientes canales:
 
-✉️ Correo Electrónico: [tu@email.com]
-🔗 LinkedIn: [tu perfil de LinkedIn]
+✉️ Correo Electrónico: pabloardiladev@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/pablo-ardila
 ✨ Estoy emocionado de compartir mi trabajo y contribuir a la comunidad de desarrolladores. ¡Sígueme para mantenerte actualizado sobre mis proyectos y descubrir contenido inspirador!
 
 🌐 Mi portafolio y más información sobre mis servicios están disponibles en [tu sitio web].
 
 ¡Espero con ansias colaborar contigo y hacer crecer tu proyecto en Shopify!
-
-Atentamente,
